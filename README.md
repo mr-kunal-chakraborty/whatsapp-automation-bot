@@ -25,6 +25,8 @@ node bot.js
 
 ## 📷 Demo
 <img width="909" height="864" alt="image" src="https://github.com/user-attachments/assets/6b28575f-9f16-4cf3-9df7-37487e68abbd" />
+<img width="240" height="1600" alt="image" src="https://github.com/user-attachments/assets/057c6543-a039-4da4-92e2-703b255dd1f5" />
+
 
 
 ## 👨‍💻 Author
