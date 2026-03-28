@@ -24,7 +24,8 @@ npm install
 node bot.js
 
 ## 📷 Demo
-(Add screenshots here)
+<img width="909" height="864" alt="image" src="https://github.com/user-attachments/assets/6b28575f-9f16-4cf3-9df7-37487e68abbd" />
+
 
 ## 👨‍💻 Author
-Your Name
+Kunal Chakraborty
